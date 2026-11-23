@@ -1,1 +1,1 @@
-# Scientific-Research-Documentation-in-Latex
+# Scientific-Research-Documentation-in-LaTeX
