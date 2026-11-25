@@ -1,6 +1,6 @@
 # Characterization of the Interaction Between DDX3X and Influenza B Virus Genomic RNA (LaTeX Beamer)
 
-[![LaTeX Beamer](https://img.shields.io/badge/Format-LaTeX%20Beamer%20(16%3A9)-008080.svg?logo=latex&logoColor=white)](final_report_presentation.tex)
+[![LaTeX](https://img.shields.io/badge/Format-LaTeX%20Beamer%20(16%3A9)-008080.svg?logo=latex&logoColor=white)](final_report_presentation.tex)
 [![Compiled PDF](https://img.shields.io/badge/Output-PDF%20Document-red.svg?logo=adobe-acrobat-reader&logoColor=white)](final_report_presentation.pdf)
 [![Theme](https://img.shields.io/badge/Design-Custom%20Madrid%20%2B%20Biotech-143058.svg)](#)
 
@@ -8,7 +8,7 @@ This repository contains the publication-grade **LaTeX Beamer** source code, com
 
 ---
 
-## 🎯 Project Summary
+## Project Summary
 
 The study investigates how the host cellular RNA helicase **DDX3X** interacts with **Influenza B virus (IBV)** genomic RNA segments:
 - **Expression & IMAC / SEC Purification**: Full-length human DDX3X (~73 kDa) recombinantly expressed in *E. coli* BL21(DE3) and purified to homogeneity.
@@ -19,7 +19,7 @@ The slide deck is built from scratch in modern LaTeX Beamer using custom palette
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── final_report_presentation.tex  # Master LaTeX Beamer source document (835 lines)
@@ -39,7 +39,7 @@ The slide deck is built from scratch in modern LaTeX Beamer using custom palette
 
 ---
 
-## 💻 Compilation Guide
+## Compilation Guide
 
 ### Recommended: TeX Live / MacTeX / MiKTeX
 
@@ -65,7 +65,7 @@ latexmk -pdf final_report_presentation.tex
 
 ---
 
-## 🎨 Theme & Typography Specifications
+## Theme & Typography Specifications
 
 - **Aspect Ratio**: 16:9 widescreen (`\documentclass[aspectratio=169, 10pt]{beamer}`)
 - **Base Theme**: `Madrid` with custom academic color configurations
