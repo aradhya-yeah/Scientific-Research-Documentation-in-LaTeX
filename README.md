@@ -4,7 +4,7 @@
 [![Compiled PDF](https://img.shields.io/badge/Output-PDF%20Document-red.svg?logo=adobe-acrobat-reader&logoColor=white)](final_report_presentation.pdf)
 [![Theme](https://img.shields.io/badge/Design-Custom%20Madrid%20%2B%20Biotech-143058.svg)](#)
 
-This repository contains the publication-grade **LaTeX Beamer** source code, compiled presentation PDF, optimized vector/raster figures, and comprehensive compilation instructions for the research internship project presented by **Aradhya Gupta** (South Asian University) under the mentorship of **Prof. Arindam Mondal** (Molecular Virology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur).
+This repository contains the publication-grade **LaTeX** source code, compiled presentation PDF, optimized vector/raster figures, and comprehensive compilation instructions for the research internship project presented by **Aradhya Gupta** (South Asian University) under the mentorship of **Prof. Arindam Mondal** (Molecular Virology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur).
 
 ---
 
