@@ -1,6 +1,6 @@
 # Characterization of the Interaction Between DDX3X and Influenza B Virus Genomic RNA (LaTeX Beamer)
 
-[![LaTeX](https://img.shields.io/badge/Format-LaTeX%20Beamer%20(16%3A9)-008080.svg?logo=latex&logoColor=white)](final_report_presentation.tex)
+[![LaTeX](https://img.shields.io/badge/Format-LaTeX%20(16%3A9)-008080.svg?logo=latex&logoColor=white)](final_report_presentation.tex)
 [![Compiled PDF](https://img.shields.io/badge/Output-PDF%20Document-red.svg?logo=adobe-acrobat-reader&logoColor=white)](final_report_presentation.pdf)
 [![Theme](https://img.shields.io/badge/Design-Custom%20Madrid%20%2B%20Biotech-143058.svg)](#)
 
